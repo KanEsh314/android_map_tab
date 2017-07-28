@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "945854738212",
+    "firebase_url": "https://hackathon-2-82bc4.firebaseio.com",
+    "project_id": "hackathon-2-82bc4",
+    "storage_bucket": "hackathon-2-82bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945854738212:android:6910b8e9f1328017",
+        "android_client_info": {
+          "package_name": "com.example.wanmuz.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945854738212-299qj4vigucprfo59eak589lt2jgafl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wanmuz.myapplication",
+            "certificate_hash": "fbee0b69caaacdb7b68b296e994bf339d0f2e29a"
+          }
+        },
+        {
+          "client_id": "945854738212-fp2alfmtlu22c492oiapqufge814ds3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0C2IhNbHsyTW7hCXu-iRpDmSKusxs8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945854738212-fp2alfmtlu22c492oiapqufge814ds3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
